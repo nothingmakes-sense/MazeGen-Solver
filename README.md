@@ -35,8 +35,6 @@ To get started with MazeGen-Solver, follow these steps:
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
-## License
-This project is currently unlicensed. Please contact the repository owner for usage inquiries.
 
 ## Contact
 For any questions or issues, please open an issue on [GitHub](https://github.com/nothingmakes-sense/MazeGen-Solver/issues).
